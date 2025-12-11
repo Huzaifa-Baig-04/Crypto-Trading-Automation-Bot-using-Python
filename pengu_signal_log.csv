@@ -1,0 +1,46 @@
+Time,Score,Decision,Reasons,Patterns,Outcome
+2025-07-28 01:39:12,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",,Correct
+2025-07-28 01:41:47,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",,Correct
+2025-07-28 01:44:42,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",🔴 Bearish Engulfing,Correct
+2025-07-28 01:49:37,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",,Correct
+2025-07-28 01:51:57,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",,Correct
+2025-07-28 01:57:02,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",🟢 Bullish Engulfing,Correct
+2025-07-28 01:59:54,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX","🌙 Inverted Hammer, 🟢 Bullish Engulfing",Correct
+2025-07-28 02:05:02,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",,Correct
+2025-07-28 02:36:11,2,⚠️ Wait – No High-Confidence Signal,"MACD Bullish, VWAP Above, Strong Trend ADX",🔢 Hammer,Correct
+2025-07-28 03:02:28,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",,Correct
+2025-07-28 03:03:20,1,⚠️ Wait – No High-Confidence Signal,"MACD Bearish, VWAP Above, Strong Trend ADX",Inverted Hammer,Incorrect
+2025-07-28 03:05:55,1,⚠️ Wait – No High-Confidence Signal,"📉 MACD Bearish, 🔺 Price Above VWAP, 💪 Strong ADX Trend",📍 Inverted Hammer,Incorrect
+2025-07-28 03:08:40,1,⚠️ Wait – No High-Confidence Signal,"📉 MACD Bearish, 🔺 Price Above VWAP, 💪 Strong ADX Trend",,Incorrect
+2025-07-28 03:14:12,1,❌ SELL Signal,"📉 MACD Bearish, 🔺 Price Above VWAP, 💪 Strong ADX Trend",,Incorrect
+2025-07-28 03:21:36,2,✅ BUY Signal,"📈 MACD Bullish, 🔹 Price Above VWAP, 💪 Strong ADX Trend",🟩 Bullish Engulfing,Correct
+2025-07-28 11:18:28,3,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 💪 Strong ADX Trend",🟩 Bullish Engulfing,Correct
+2025-07-28 11:18:45,3,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 💪 Strong ADX Trend",🟩 Bullish Engulfing,Correct
+2025-07-28 11:53:25,3,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 💪 Strong ADX Trend",🟩 Bullish Engulfing,Correct
+2025-07-28 12:02:14,3,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 💪 Strong ADX Trend","🔨 Hammer, 📍 Inverted Hammer",Incorrect
+2025-07-28 12:05:09,3,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 💪 Strong ADX Trend",🟩 Bullish Engulfing,Incorrect
+2025-07-28 12:22:46,3,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 💪 Strong ADX Trend","🔨 Hammer, 📍 Inverted Hammer, 🔵 Bearish Engulfing",Incorrect
+2025-08-03 20:01:15,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend",,Correct
+2025-08-03 20:01:54,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend",,Correct
+2025-08-03 20:02:28,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend",,Correct
+2025-08-03 20:03:02,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend","📍 Inverted Hammer, 🔵 Bearish Engulfing",Correct
+2025-08-03 20:03:36,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend","🔨 Hammer, 📍 Inverted Hammer",Correct
+2025-08-03 20:04:10,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend","🔨 Hammer, 📍 Inverted Hammer",Correct
+2025-08-03 20:04:46,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend","🔨 Hammer, 📍 Inverted Hammer, 🔵 Bearish Engulfing",Correct
+2025-08-03 21:21:27,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend",🔵 Bearish Engulfing,Incorrect
+2025-08-03 21:22:02,0,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 😴 Weak ADX Trend","🔨 Hammer, 📍 Inverted Hammer",Incorrect
+2025-08-05 20:32:47,1,❌ SELL Signal,"📉 MACD Bearish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend",🔨 Hammer,Incorrect
+2025-08-05 21:24:42,2,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend","🔨 Hammer, 📍 Inverted Hammer, 🟩 Bullish Engulfing",Correct
+2025-08-05 21:34:47,2,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend",🟩 Bullish Engulfing,Correct
+2025-08-05 21:38:28,2,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend","📍 Inverted Hammer, 🟩 Bullish Engulfing",Correct
+2025-08-05 21:49:01,2,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend",🔵 Bearish Engulfing,Incorrect
+2025-08-05 21:59:05,2,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend","📍 Inverted Hammer, 🟩 Bullish Engulfing",Incorrect
+2025-08-05 22:09:09,2,✅ BUY Signal,"📈 MACD Bullish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend",,Incorrect
+2025-08-06 01:02:34,1,❌ SELL Signal,"📉 MACD Bearish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend","🔨 Hammer, 📍 Inverted Hammer",Correct
+2025-08-06 01:14:07,1,❌ SELL Signal,"📉 MACD Bearish, 🔻 Price Below VWAP (Buy Zone), 😴 Weak ADX Trend","🔨 Hammer, 🔵 Bearish Engulfing",Correct
+2025-08-07 01:17:23,1,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 💪 Strong ADX Trend",🟩 Bullish Engulfing,Correct
+2025-08-07 01:26:20,1,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 💪 Strong ADX Trend","🔨 Hammer, 📍 Inverted Hammer",Correct
+2025-08-07 01:36:24,1,❌ SELL Signal,"📉 MACD Bearish, 🔹 Price Above VWAP, 💪 Strong ADX Trend",,Correct
+2025-08-08 01:39:57,2,❌ SELL Signal,"📈 MACD Bullish, 🔥 RSI Overbought, 🔹 Price Above VWAP, 💪 Strong ADX Trend",🟩 Bullish Engulfing,Unknown
+2025-08-08 01:50:03,2,❌ SELL Signal,"📈 MACD Bullish, 🔥 RSI Overbought, 🔹 Price Above VWAP, 💪 Strong ADX Trend",🟩 Bullish Engulfing,Unknown
+2025-08-08 02:00:09,2,❌ SELL Signal,"📈 MACD Bullish, 🔥 RSI Overbought, 🔹 Price Above VWAP, 💪 Strong ADX Trend",,Unknown
